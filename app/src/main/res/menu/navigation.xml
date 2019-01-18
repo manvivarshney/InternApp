@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item  android:id="@+id/bnPreferences"
+       android:title="@string/tab_1"
+       android:icon="@drawable/ic_music_control_settings_button"
+       >
+
+</item>
+
+    <item android:id="@+id/bnHome"
+        android:title="@string/tab_2"
+        android:icon="@drawable/ic_home_black_24dp">
+
+    </item>
+
+    <item android:id="@+id/bnMe"
+        android:title="@string/tab_3"
+        android:icon="@drawable/ic_account_circle_black_24dp">
+
+    </item>
+</menu>

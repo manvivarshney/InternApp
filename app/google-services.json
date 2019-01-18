@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "38711052745",
+    "firebase_url": "https://internapp-3ae15.firebaseio.com",
+    "project_id": "internapp-3ae15",
+    "storage_bucket": "internapp-3ae15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38711052745:android:eba71c63cdedf2e8",
+        "android_client_info": {
+          "package_name": "com.domain.internapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38711052745-8pq350e8e8e19ccskhl01t3702qp8lve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-thJcOiKsEMZKKVr5jsLtU1R6TjpviQ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
